@@ -1,6 +1,7 @@
 {
  "work": "続後撰和歌集",
  "work_id": "kt-shokugosen",
+ "repo": "kumoi-no-fumigura/shokugosen-wakashu",
  "yomi": "しょくごせんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -16545,6 +16546,5 @@
    "text": "むらさきの藤坂山に咲く花の千世のかざしは君が爲かも",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shokugosen-wakashu"
+ ]
 }
